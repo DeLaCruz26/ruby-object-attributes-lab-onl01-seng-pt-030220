@@ -10,4 +10,8 @@ class Person
   def job=(new_job)
     @job = " "
   end
+
+  def job
+    @job
+  end
 end
