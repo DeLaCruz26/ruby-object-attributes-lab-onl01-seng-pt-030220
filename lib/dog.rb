@@ -9,4 +9,5 @@ class Dog
 
   def name=(new_breed)
     @name = "Beagle"
+  end
 end
